@@ -7,5 +7,6 @@ Implementations of some Machine Learning models coded from scratch using python
 - [ ] Linear Regression.
 - [x] Logistic Regression.
     - [ ] Changing the used dataset.
+    - [ ] Adding some comments
 - [ ] Perceptron.
 - [ ] Multilayer Perceptron
